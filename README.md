@@ -48,6 +48,8 @@ If internet and social media helped create value, smartX will help capture and e
 
 ## How does it work?
 
+<b>Universal Token & Transfer Protocol (UTTP)</b>
+
 Under the hood smartX uses generic curved bonding structure for pricing and minting tokens, and creating automated markets based on universal token &amp; transfer protocol. 
 
 <img alt="" src="https://pbs.twimg.com/media/DpzPLZSV4AMBCBR.jpg" class=" b-loaded"></a></span></div>
@@ -66,15 +68,20 @@ Here's a slightly more detailed visual representation of how smartX's proposed u
 
 3/ Governance and Compliance rules - e.g. voting provisions, dispute arbitration, witness signatures, regulatory approvals, decision making, burn/usage restrictions, identity verifications, tax filing...
 
-Because of this seamless digitization, the platform is essentially capable of modularizing economic value for anything!
-
-Anyone will be able to act as a validator 📢&nbsp;(to verify users and process txns) and participate in light touch (D)PoS style consensus model (% requests processed ~= % network coins staked) going forward. 
+Because of this seamless digitization, the platform is essentially capable of modularizing economic value for anything.
 
 Best part is, smartX's decentralized experience is designed to complement 🤝existing infrastructure; making the UX absolutely frictionless for all parties. No learning curve, no gas fees, no KYC on exchanges, no key management. Just simple and fun value exchange. ✌️ 
 
 <img alt="" src="https://pbs.twimg.com/media/DpzQXmlUcAEcKaw.jpg" class=" b-loaded">
 
-# Features
+<b>High level technical architecture</b>
+
+<img alt="" src="https://lh6.googleusercontent.com/l51CHrTl1dW1E2jFvI2PXfFuBq7wdTHwh2v9pqlpglLl2vsS_XTuGlcldqojtagDAKWPXmlyA-H6gInL6zgx=w1439-h685">
+
+Anyone will be able to act as a validator 📢&nbsp;(to verify users and process txns) by running smartX core and participate in light touch (D)PoS style consensus model (% requests processed ~= % network coins staked) on IPFS. 
+
+
+<b>Client features</b>
 
 People can explore a market feed of amazing tokens/smartItems curated with real-time price information. They can share, watch or discuss any token to gauge its potential and learn more about its future growth.
 
