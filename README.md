@@ -1,26 +1,25 @@
-<h1>smartX</h1>
+<h1>smartX - democratizing economy, reimagining society!</h1>
+
 
 <b><a href="https://twitter.com/abh1manyu/status/1053123517129023488">Tweet-paper</a></b>
 
 ## What is smartX?
-------------------
 
-smartX is a virtual currency, wallet and economic system that lets you tokenize and trade anything i.e. URLs/digital goods (i.e. create any kind of programmable digital representation).
+smartX is a virtual currency, wallet and economic system that lets you tokenize and trade anything i.e. URLs/digital goods. 
 
 For instance, using smartX an automated 24/7 liquid market 💰 for a tweet can be created and its tokens can be traded by simply commenting "@smartXbot buy # tokens"
 
-As investor / curator you benefit by buying tokens early. With increasing demand token price goes up and you can exit a market at any point by burning your tokens in the pool. 
+As investor or curator you benefit by buying tokens early. With increasing demand token price goes up and you can exit a market at any point by burning your tokens in the pool. 
 
 <img alt="" src="https://pbs.twimg.com/media/DpzM0HzVsAA1eKe.jpg" class=" b-loaded"> 
 
-With smartX end goal is to build a smart socio-economic layer - with core features such as money, assets, feed, identity, social graph, reputation in one place - to let you seamlessly create, discover, manage and trade any kind of smartItems/tokens (digitized goods with built-in dynamic pricing, profit distribution, governance rules and compliance mechanism) - from videos to software to tickets to real estate to people to identities - across the web with anyone, privately & provably.
+smartX's end goal is to build a smart socio-economic layer - with core features such as money, assets, feed, identity, social graph, reputation in one place - to let you seamlessly create, discover, manage and trade any kind of smart items (so called tokens) with built-in dynamic pricing, profit distribution, governance rules and compliance mechanism.
 
 <img alt="" src="https://pbs.twimg.com/media/DpzOUIYVsAANbaE.jpg" class=" b-loaded">
 
 In other words, you will be able to create vanilla payments to equity like programmable/digital representation for any good/URL; enabling true value modularization.
 
 ## Why it matters? 
-------------------
 
 World economy is ruled by intermediaries - companies, governments, banks - with too much power and incentives in the hands of a few; making only rich, richer.
 
@@ -48,7 +47,6 @@ If internet and social media helped create value, smartX will help capture and e
 
 
 ## How does it work?
-------------------------
 
 Under the hood smartX uses generic curved bonding structure for pricing and minting tokens, and creating automated markets based on universal token &amp; transfer protocol. 
 
@@ -94,7 +92,6 @@ smartScore acts as an underlying reputation metric of participants depending on 
 
 
 ## What about monetary economics and game theory?
-------------------------------------------------
 
 Monetary supply is fixed but unlike other hard cryptocurrencies it's given directly to people and only minted at a transparent rate when a new member (referred/verified by existing member) joins network.
 
@@ -109,7 +106,6 @@ Validators mint certain % when they admit a verified member to the network and c
 
 
 ## What is the vision and roadmap?
----------------------------------------------
 
 We see a world in 2025 where people have real freedom to do what they want - future of work in a smart economy where billions of people, solopreneurs, service providers and teams come together seamlessly in one free open market and exchange any kind of information or service they love in a self sovereign way.
 
@@ -149,7 +145,6 @@ Infrastructure - ongoing improvements an standardization
 
 
 ## How to get involved?
-----------------------
 
 smartX is meant to be open source/DAO with a suite of simple protocols to build a smart, truly digital economy. Anyone who wants to give real freedom and power back to people is welcome to join and contribute to the endeavor. 
 
