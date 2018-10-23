@@ -74,13 +74,6 @@ Best part is, smartX's decentralized experience is designed to complement 🤝ex
 
 <img alt="" src="https://pbs.twimg.com/media/DpzQXmlUcAEcKaw.jpg" class=" b-loaded">
 
-<b>High level technical architecture</b>
-
-<img alt="" src="https://lh6.googleusercontent.com/l51CHrTl1dW1E2jFvI2PXfFuBq7wdTHwh2v9pqlpglLl2vsS_XTuGlcldqojtagDAKWPXmlyA-H6gInL6zgx=w1439-h685">
-
-Anyone will be able to act as a validator 📢&nbsp;(to verify users and process txns) by running smartX core and participate in light touch (D)PoS style consensus model (% requests processed ~= % network coins staked) on IPFS. 
-
-
 <b>Client features</b>
 
 People can explore a market feed of amazing tokens/smartItems curated with real-time price information. They can share, watch or discuss any token to gauge its potential and learn more about its future growth.
@@ -97,6 +90,11 @@ Chat helps people consolidate their social graph and connect with friends, famil
 
 smartScore acts as an underlying reputation metric of participants depending on quality of contributions in the network. This helps network reward and punish good and bad actors.
 
+<b>High level technical architecture</b>
+
+<img alt="" src="https://lh6.googleusercontent.com/l51CHrTl1dW1E2jFvI2PXfFuBq7wdTHwh2v9pqlpglLl2vsS_XTuGlcldqojtagDAKWPXmlyA-H6gInL6zgx=w1439-h685">
+
+Anyone will be able to act as a validator 📢&nbsp;(to verify users and process txns) by running smartX core and participate in light touch (D)PoS style consensus model (% requests processed ~= % network coins staked) on IPFS. 
 
 ## What about monetary economics and game theory?
 
