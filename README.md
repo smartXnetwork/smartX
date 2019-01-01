@@ -7,7 +7,7 @@
 
 smartX is a peer-to-peer universal identity and monetary system for a self-sovereign society.
 
-smartX lets anyone seamlessly manage economic activities through smart contracts and markets (aka tokens) for just about anything i.e. URLs/digital goods. 
+smartX allows us to seamlessly manage economic activities through smart contracts and markets (aka tokens) for just about anything i.e. URLs/digital goods. 
 
 For instance, using smartX an automated 24/7 liquid market 💰 for a tweet can be created and its tokens can be traded by simply commenting "@smartXbot buy # tokens"
 
