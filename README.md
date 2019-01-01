@@ -1,11 +1,13 @@
-<h1>smartX - democratizing economy, reimagining society!</h1>
+<h1>smartX - self-sovereign society!</h1>
 
 
 <b><a href="https://twitter.com/abh1manyu/status/1053123517129023488">Tweet-paper</a></b>
 
 ## What is smartX?
 
-smartX is a virtual currency, wallet and economic system that lets you tokenize and trade anything i.e. URLs/digital goods. 
+smartX is a peer-to-peer universal identity and monetary system for a self-sovereign society.
+
+smartX lets anyone seamlessly manage economic activities through smart contracts and markets (aka tokens) for just about anything i.e. URLs/digital goods. 
 
 For instance, using smartX an automated 24/7 liquid market 💰 for a tweet can be created and its tokens can be traded by simply commenting "@smartXbot buy # tokens"
 
